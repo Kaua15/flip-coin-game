@@ -2,4 +2,4 @@
 
 Jogo CARA ou COROA feito com JavaScript e animação CSS
 
-![Game Screen](./printScree.png)
+![Game Screen](./printScreen.png)
